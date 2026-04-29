@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 25-26\\Entornos de desarrollo\\TEMA 6\\6.2\\6.2_parte2\\Jugador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62818E41-6FAA-4E8B-8BAE-D0FB7A6E6335}|..\\JugadorTests\\JugadorTests.csproj|c:\\users\\usuario\\onedrive - conselleria d\u0027educaci\u00F3\\daw 25-26\\entornos de desarrollo\\tema 6\\6.2\\6.2_parte2\\jugadortests\\jugadortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE23BB20-BF60-4083-8855-EE8895F04178}|Jugador.csproj|c:\\users\\usuario\\onedrive - conselleria d\u0027educaci\u00F3\\daw 25-26\\entornos de desarrollo\\tema 6\\6.2\\6.2_parte2\\jugador\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE23BB20-BF60-4083-8855-EE8895F04178}|Jugador.csproj|solutionrelative:jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JugadorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 25-26\\Entornos de desarrollo\\TEMA 6\\6.2\\6.2_parte2\\JugadorTests\\JugadorTests.cs",
+              "RelativeDocumentMoniker": "..\\JugadorTests\\JugadorTests.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 25-26\\Entornos de desarrollo\\TEMA 6\\6.2\\6.2_parte2\\JugadorTests\\JugadorTests.cs",
+              "RelativeToolTip": "..\\JugadorTests\\JugadorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:16:04.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 25-26\\Entornos de desarrollo\\TEMA 6\\6.2\\6.2_parte2\\Jugador\\Jugador.cs",
+              "RelativeDocumentMoniker": "Jugador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - Conselleria d\u0027Educaci\u00F3\\DAW 25-26\\Entornos de desarrollo\\TEMA 6\\6.2\\6.2_parte2\\Jugador\\Jugador.cs",
+              "RelativeToolTip": "Jugador.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:46:52.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

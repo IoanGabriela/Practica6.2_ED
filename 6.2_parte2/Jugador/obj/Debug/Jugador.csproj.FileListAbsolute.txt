@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\bin\Debug\Jugador.dll
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\bin\Debug\Jugador.pdb
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\obj\Debug\Jugador.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\obj\Debug\Jugador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\obj\Debug\Jugador.dll
+C:\Users\Usuario\OneDrive - Conselleria d'Educació\DAW 25-26\Entornos de desarrollo\TEMA 6\6.2\6.2_parte2\Jugador\obj\Debug\Jugador.pdb

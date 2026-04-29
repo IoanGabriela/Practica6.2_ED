@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../JugadorTests/JugadorTests.csproj" Id="62818e41-6faa-4e8b-8bae-d0fb7a6e6335" />
+  <Project Path="Jugador.csproj" Id="de23bb20-bf60-4083-8855-ee8895f04178" />
+</Solution>
